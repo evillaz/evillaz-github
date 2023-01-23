@@ -150,13 +150,6 @@ And it should show no changes
 You can deploy this project using:
 
 Visual studio code, another realiable code editor or a Web browser
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
