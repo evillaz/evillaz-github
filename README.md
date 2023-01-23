@@ -75,7 +75,7 @@ This is one of the first projects on the early days on microverse program.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-We got our first live demo thanks to GitHub pages>>>>
+We got our first live demo thanks to GitHub pages hosting>>>>
 
 - [Live Demo!!!](https://evillaz.github.io/My-Portfolio/)
 
